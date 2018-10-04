@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-header{
+header a{
 	padding-bottom: 10px;
 	font-size: 75px;
 	font-family: Baskerville;
