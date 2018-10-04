@@ -47,8 +47,8 @@ h1{
 p{
   color: #555555
 }
-.press-links img{
-  border: none;
+.press-links img:hover{
+  border: 5px solid green;
 }
 
 .press-links a{
