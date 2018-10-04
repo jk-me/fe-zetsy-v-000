@@ -23,7 +23,8 @@ header {
 	padding-bottom: 10px;
 	font-size: 75px;
 	font-family: Baskerville;
-	border-bottom: 1px solid black;
+  color: #6F7F8A;
+  border-bottom: 1px solid black;
 	margin-bottom: 5px;
 }
 
