@@ -51,6 +51,6 @@ p{
   border: 5px solid green;
 }
 
-.press-links a{
-  border: green;
+.press-links img{
+  border: 5px solid #CCCCCC;
 }
