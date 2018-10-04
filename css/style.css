@@ -32,7 +32,7 @@ header a{
   color: #98ADA6;
   text-decoration: none;
 }
-header a:hover{
+a:hover{
   color: #6F7F8A;
 }
 
