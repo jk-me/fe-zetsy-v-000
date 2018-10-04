@@ -28,6 +28,10 @@ header {
 	margin-bottom: 5px;
 }
 
+header a{
+  color: green
+}
+
 img{
 	border: 5px solid #98ADA6;
 }
