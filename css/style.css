@@ -55,6 +55,7 @@ p{
   border: 5px solid #CCCCCC;
 }
 
-p #copyright{
+#copyright{
+  background: blue;
   text-align: left;
 }
