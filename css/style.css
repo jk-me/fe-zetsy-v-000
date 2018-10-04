@@ -24,10 +24,13 @@ header {
 	font-size: 75px;
 	font-family: Baskerville;
   color: #6F7F8A;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #98ADA6;
 	margin-bottom: 5px;
 }
 
+header a{
+  color: #98ADA6;
+}
 header a:hover{
   color: #6F7F8A;
 }
