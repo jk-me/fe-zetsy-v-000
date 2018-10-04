@@ -54,3 +54,7 @@ p{
 .press-links img{
   border: 5px solid #CCCCCC;
 }
+
+#copyright{
+  float:right;
+}
